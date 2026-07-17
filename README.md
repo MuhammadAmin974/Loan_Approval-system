@@ -1,1 +1,2 @@
-# Loan_Approval-system
+# Loan_Approval-system  
+A Machine learning based loan Approval system that predicts whether a loan Application is likely Approved or Rejected Based on Customer Financial and personal information...
